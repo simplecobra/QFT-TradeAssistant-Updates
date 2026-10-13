@@ -1,0 +1,12 @@
+product=QFT_TradeAssistant
+version=3.10
+file=QFT_TradeAssistant_EA_v3.10.ex5
+size=1076186
+sha256=97a727d563c19c1134942b5890776a4f7cc18a99f62c1d82f25ed76614aa3a3f
+dll=QFTTAUpd_v3.10.dll
+dllver=151
+dllsize=101204
+dllsha=8f47fab4e89756de460f6f71f891013ff8ecdcfcb33365b8aa22915775612a76
+notes=Improvements and fixes
+sig=ee4134d08cd2f9af1e1424aa8e8f48f6da6ba48394c21d298cddc52e144af5bd
+sig2=e3fecc792ae4cfd42726b6c070784c35048637d538834ab14b7171a56a4d515b
