@@ -1,0 +1,12 @@
+product=QFT_TradeAssistant_MT4
+version=3.12
+file=QFT_TradeAssistant_EA_MT4_v3.12.ex4
+size=1557366
+sha256=e3725d0d0a6c1ea8b4235e2ec94dc6c5ab719f3f44ab693961ed1209fbd10990
+dll=QFTTAUpd32_v3.12.dll
+dllver=160
+dllsize=168569
+dllsha=699046228489856802b2e3fa6841e2a006c89293a0f7d2863b3195a9c5131043
+notes=New Info > About page: license key, expiry, version, updates, theme, panel size, website, WhatsApp|Panel size 75-150% (zoom - and +)|Symbol list: all tradeable symbols of the broker with a scroll bar|Symbol details moved to Market > Symbol|Update: download progress in %, Restart message (close MetaTrader now?), What's new after the restart|Panel shrinks by itself to stay above an indicator window|Lines section closes after an order - Lines button shows it again|Clear messages when QFTTAUpd.dll is missing or can not be loaded|Checks for old MetaTrader, low memory, no connection, broker EA trading OFF
+sig=988084acbe9bee43ac75b428dbb25b0357128eebdb3689a2fbaf6552d41b6d62
+sig2=1a0cc34948e39ace9a0c151ef1e2d9a928929a09aa2262c0bfa600f25f2afc02
